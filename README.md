@@ -99,7 +99,6 @@ A collection of Bash utilities for:
 
 📧 **Email:** izayahjfelix@gmail.com  
 🌍 **NYC → Relocating to D.C.**  
-💼 **LinkedIn:** *(Add your link here)*  
 
 ---
 
