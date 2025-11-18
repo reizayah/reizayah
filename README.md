@@ -1,4 +1,4 @@
-# 👋🏾 Hey, I'm **Izayah Jean-Felix**
+# 👋🏾 Hey, I'm **Izayah**
 
 ### **Software Engineer | AI + Data Engineering | iOS Developer | Systems Automation | Home-Lab Engineer | Network Engineer**
 
